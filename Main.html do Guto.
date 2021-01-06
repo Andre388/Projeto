@@ -1,0 +1,225 @@
+<!-- Segue o Projeto do Guto -->
+<!--Ele não aceitou todas as minhas alterações, porem copiei o codigo dele ok -->
+
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <title>Filosofo Citou</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+<body>
+    <!-- CABEÇALHO + LOGO -->
+    <header class="menu-principal">
+        <div class="header-1">
+        <div class="logo">
+            <a href="./index.html"><img src="./img/logo.png"></a>
+        </div>
+
+        <!-- MENUS -->
+        <div class="menus">
+            <ul>
+                <li><a href="./index.html">PRINCIPAIS</a></li>
+                <li><a href="autores.html">AUTORES</a></li>
+                <li><a href="sobre.html">SOBRE</a></li>
+                <li><a href="contato.html">CONTATO</a></li>
+            </ul>
+        </div>
+        </div>
+        <!-- SOBRE -->
+        <nav class="about">
+            <ol>
+                <li><a href="amor.html" style="text-decoration:none">AMOR</a></li>
+                <li><a href="otimismo.html" style="text-decoration:none">OTIMISMO</a></li>
+                <li><a href="reflexao.html" style="text-decoration:none">REFLEXÃO</a></li>
+                <li><a href="familia.html" style="text-decoration:none">FAMILIA</a></li>
+                <li><a href="pessimismo.html" style="text-decoration:none">PESSIMISMO</a></li>
+                <li><a href="amizade.html" style="text-decoration:none">AMIZADE</a></li>
+                <li><a href="motivacao.html" style="text-decoration:none">MOTIVAÇÃO</a></li>
+                <li><a href="sociedade.html" style="text-decoration:none">SOCIEDADE</a></li>
+                <li><a href="felicidade.html" style="text-decoration:none">FELICIDADE</a></li>
+            </ol>
+        </nav>
+    </header>
+    
+    <div class="citacoesText">
+        <h1>CITAÇÕES</h1>
+    </div>
+    <div class="horizontalRetangle">
+    </div>
+    <p class="citacao">Penso, logo existo.</p>
+    <p class="filosofo">- Platão</p>
+    
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">É bem difícil descobrir o que gera a felicidade; pobreza e riqueza falharam nisso.</p>
+    <p class="filosofo">- Elbert Hubbard</p>
+    
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Pessimismo leva à fraqueza, otimismo ao poder.</p>
+    <p class="filosofo">- William James</p>
+    
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.</p>
+    <p class="filosofo">- Nemo Nox</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Construí amigos, enfrentei derrotas, venci obstáculos, bati na porta da vida e disse-lhe: Não tenho medo de vivê-la.</p>
+    <p class="filosofo">- Augusto Cury</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Construí amigos, enfrentei derrotas, venci obstáculos, bati na porta da vida e disse-lhe: Não tenho medo de vivê-la.</p>
+    <p class="filosofo">- Augusto Cury</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">É muito melhor viver sem felicidade do que sem amor.</p>
+    <p class="filosofo">- William Shakespeare</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">As ideias das pessoas são pedaços da sua felicidade.</p>
+    <p class="filosofo">- William Shakespeare</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Na plenitude da felicidade, cada dia é uma vida inteira.</p>
+    <p class="filosofo">- Johann Goethe</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">O que não provoca minha morte faz com que eu fique mais forte.</p>
+    <p class="filosofo">- Friedrich Nietzsche</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Há duas formas para viver a sua vida. Uma é acreditar que não existe milagre. A outra é acreditar que todas as coisas são um milagre.</p>
+    <p class="filosofo">- Albert Einstein</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">A suprema felicidade da vida é ter a convicção de que somos amados.</p>
+    <p class="filosofo">- Victor Hugo</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Uma vida inteira de felicidade! Nenhum homem vivo conseguiria suportá-la. Seria o inferno.</p>
+    <p class="filosofo">- George Bernard Shaw</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Você vai descobrir mais cedo ou mais tarde que o tempo pra ser feliz é curto, e cada instante que vai embora não volta mais.</p>
+    <p class="filosofo">- Arnaldo Jabor</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Aprender é descobrir aquilo que voce já sabe. Ensinar é lembrar aos outros que eles sabem tanto quanto você.</p>
+    <p class="filosofo">- Richard Bach</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Supor é bom - descobrir é melhor.</p>
+    <p class="filosofo">- Mark Twain</p>
+    
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">A insatisfação é o primeiro passo para o progresso de um homem ou de uma nação.</p>
+    <p class="filosofo">- Oscar Wilde</p>
+    
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Aqueles que não conseguem lembrar o passado estão condenados a repeti-lo.</p>
+    <p class="filosofo">- George Santayana</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Não são as crises que mudam o mundo, e sim nossa reação a elas.</p>
+    <p class="filosofo">- Zygmunt Bauman</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">O indivíduo só poderá agir na medida em que aprender a conhecer o contexto em que está inserido, a saber quais são suas origens e as condições de que depende.</p>
+    <p class="filosofo">- Émile Durkheim</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Não corrigir nossas falhas é o mesmo que cometer novos erros.</p>
+    <p class="filosofo">- Confúcio</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Temos de nos tornar a mudança que queremos ver.</p>
+    <p class="filosofo">- Mahatma Gandhi</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">O progresso é impossível sem mudança; e aqueles que não conseguem mudar as suas mentes não conseguem mudar nada.</p>
+    <p class="filosofo">- George Bernard Shaw</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Se queres prever o futuro, estuda o passado.</p>
+    <p class="filosofo">- Confúcio</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Um país não muda pela sua economia, sua política e nem mesmo sua ciência; muda sim pela sua cultura.</p>
+    <p class="filosofo">- Herbert José de Sousa</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Liberdade parcial não é liberdade.</p>
+    <p class="filosofo">- Nelson Mandela</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">A menor minoria na Terra é o indivíduo. Aqueles que negam os direitos individuais não podem se dizer defensores das minorias.</p>
+    <p class="filosofo">- Ayn Rand</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Onde não há lei, não há liberdade.</p>
+    <p class="filosofo">- John Locke</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">Não se nasce mulher: torna-se.</p>
+    <p class="filosofo">- Simone de Beauvoir</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós.</p>
+    <p class="filosofo">- Jean-Paul Sartre</p>
+
+    <div class="horizontalRetangle1">
+    </div>
+    <p class="citacao">A vontade geral deve emanar de todos para ser aplicada a todos.</p>
+    <p class="filosofo">- Jean-Jacques Rousseau</p>
+    
+    <nav class="turnPage">
+        <ol>
+            <li><a href="index.html">1</a></li>
+            <li><a href="page2.html" style="text-decoration:none">2</a></li>
+            <li><a href="page3.html" style="text-decoration:none">3</a></li>
+            <li><a href="page4.html" style="text-decoration:none">4</a></li>
+            <li><a href="page5.html" style="text-decoration:none">5</a></li>
+            <li><a href="page2.html" style="text-decoration:none">></a></li>
+        </ol>
+    </nav>
+
+
+</body>
+</html>
