@@ -37,7 +37,9 @@
         </div>
         <!-- SOBRE -->
         <nav class="about">
-            <ol>
+            <ol><!-- Poderia ter ultilizado uma id="" e depois colocado o text-decoration:none, pegado o id, colocado um :hover { color:#FFF; } com o css --!>
+                <!-- Mais eu entendi, pois foi aplicado <Javascript> e <React> e a estilização do CSS não conta tanto -->
+                >!-- mais poderia mapear mais o codigo com id, e opção de translater="pt-br" para outras linguas, assim o navegador poderia traduzir
                 <li><a href="amor.html" style="text-decoration:none">AMOR</a></li>
                 <li><a href="otimismo.html" style="text-decoration:none">OTIMISMO</a></li>
                 <li><a href="reflexao.html" style="text-decoration:none">REFLEXÃO</a></li>
